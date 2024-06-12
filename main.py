@@ -18,7 +18,7 @@ print(df)
 def email_func(subject,reciever_mail,name):
   receiver=reciever_mail
   sender_mail_id="kolichalamsampathkumar@gmail.com"
-  sender_mail_password="Swathi.k@123"
+  sender_mail_password=""
      
   #MIMEMultipart Object:-
   msg=MM()
