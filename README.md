@@ -33,7 +33,7 @@ This **Automatic Birthday Wisher** is a Python-based automation system that send
 ## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/SampathKumarKolichalam/Automatic-Birthday-Wisher.git
+git clone https://github.com/SampathKumarKolichalam/Automatic-Birthday-Wisher-Using-Python-Project.git
 cd Automatic-Birthday-Wisher
 ```
 
@@ -106,7 +106,7 @@ Your Friend
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
-git clone https://github.com/SampathKumarKolichalam/Automatic-Birthday-Wisher.git
+git clone https://github.com/SampathKumarKolichalam/Automatic-Birthday-Wisher-Using-Python-Project.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
