@@ -106,7 +106,7 @@ Your Friend
 Fork the repo, make your changes, and submit a pull request!  
 
 ```sh
-git clone https://github.com/yourusername/Automatic-Birthday-Wisher-Using-Python-Project.git
+git clone https://github.com/SampathKumarKolichalam/Automatic-Birthday-Wisher.git
 git checkout -b feature-branch
 git commit -m "Added new feature"
 git push origin feature-branch
