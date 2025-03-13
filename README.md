@@ -69,7 +69,7 @@ python birthday_wisher.py
 ### **Step 3: Schedule the Script**
 #### 🖥️ **Windows Task Scheduler**
 1. Open **Task Scheduler** → Click **Create Basic Task**
-2. Set trigger: **Daily at 9:00 AM**
+2. Set trigger: **Daily at 12:00 AM**
 3. Select action: **Run a program**
 4. Browse & select `python.exe` with the script path.
 
