@@ -118,9 +118,8 @@ git push origin feature-branch
 This project is free and access to all. Feel free to use and modify it.  
 
 ---
+
 ## **Connect with Me**
 **Email:** [sampathkumarkolichalam@gmail.com]  
-
-**LinkedIn:** [https://www.linkedin.com/in/sampath-kumar-kolichalam-18b57b1ab/]
 
 ---
