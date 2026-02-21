@@ -1,5 +1,5 @@
 ### 🎂 **Automatic Birthday Wisher Using Python and Task Scheduler**  
-**Automate birthday wishes with personalized emails & scheduled execution!**  
+**Automate birthday wishes with personalized emails & scheduled execution!** 
 
 ![image](https://github.com/user-attachments/assets/44f95997-1df5-4513-b0c7-fbce71f89a00)
 
